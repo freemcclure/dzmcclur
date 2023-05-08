@@ -2,11 +2,11 @@
 <!---
 - 👀 I’m interested in ...
 --->
-- 🌱 I’m currently learning -
-  -- Python (Django)
-  -- Java (Kotlin)
-  -- LISP
-  -- 2D Graphics
+- 🌱 I’m currently learning -  
+  -- Python (Django)  
+  -- Java (Kotlin)  
+  -- LISP  
+  -- 2D Graphics  
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
