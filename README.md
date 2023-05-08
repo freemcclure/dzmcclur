@@ -3,9 +3,10 @@
 - 👀 I’m interested in ...
 --->
 - 🌱 I’m currently learning -  
-  -- Python (Django)  
-  -- Java (Kotlin)  
+  -- Django (Python)  
+  -- Kotlin (Java)  
   -- LISP  
+  -- Angular 15 (TypeScript)  
   -- 2D Graphics  
 <!---
 - 💞️ I’m looking to collaborate on ...
